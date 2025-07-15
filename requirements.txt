@@ -1,0 +1,4 @@
+aiohttp>=3.9.0
+colorama>=0.4.6
+pyfiglet>=0.8.post1
+discord.py>=2.3.2
